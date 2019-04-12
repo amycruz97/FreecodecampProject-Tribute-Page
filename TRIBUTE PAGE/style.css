@@ -1,0 +1,65 @@
+body{
+	 background:  	#E6E6FA;
+	
+	font-family: 'Roboto', sans-serif;
+}
+
+	/*NAVBAR*/
+
+.navbar{
+	background: #202020  !important;
+
+	
+}
+.navbar a{
+	color: white !important;
+
+}
+
+.navbar a:hover{
+	color:  	#E6E6FA !important;
+}
+
+		/*HOME*/
+
+
+#image{
+	background:black;
+	margin: 100px 0 5px 40px;
+}
+
+#img-caption{
+	background:;
+	color: black;
+	margin: 100px 0 30px 0;
+}
+
+
+
+	/*CAREER*/
+
+#career{
+	background:;
+	color: black;
+
+}
+
+#personallife{
+	background:;
+	margin: 10px 0 50px 0;
+	color: black;
+	
+}
+
+#bibliography{
+	background:;
+	color: black;
+
+	
+}
+
+
+#footer{
+	background: #202020;
+	color: white;
+}
