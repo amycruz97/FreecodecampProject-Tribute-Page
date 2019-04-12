@@ -1,2 +1,2 @@
 # FreecodecampProject-Tribute-Page
-A tribute page to Obama's
+A tribute page dedicated to Obama's
